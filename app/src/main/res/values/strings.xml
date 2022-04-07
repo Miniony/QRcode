@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Akylly oy</string>
+
+
+    <string name="timepicker_btn">TimePicker</string>
+    <string name="datepicker_btn">DatePicker</string>
+
+    <string name="real_time">Hakyky wagt</string>
+    <string name="ov_04">OV-04</string>
+    <string name="kitchen">Aşhana</string>
+    <string name="curtain">Perde</string>
+    <string name="status">Ýagdaý</string>
+    <string name="stove_a">Ojak A</string>
+    <string name="stove_b">Ojak B</string>
+    <string name="zero">0</string>
+    <string name="stove">Ojak</string>
+
+
+
+
+
+</resources>
